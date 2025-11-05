@@ -6,14 +6,14 @@ using namespace std;
 int main() {
     SetConsoleOutputCP(65001);
     // int counter = 20;
-    // while (number > 10) {
-    //     cout << number << endl;
+    // while (counter > 10) {
+    //     cout << counter << endl;
     //     number--;
     // }
 
     // int counter = 0;
-    // while (number < 10) {
-    //     cout << number << endl;
+    // while (counter < 10) {
+    //     cout << counter << endl;
     //     number++;
     // }
 
@@ -29,3 +29,4 @@ int main() {
     //     counter--;
     // }
 }
+
